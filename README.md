@@ -11,6 +11,9 @@ In this project we analyze and visualized the following:
 5) Tracked top10 roles with highiest turnovers
 6) Tracked turnovers based on gender
 7) Forcast the number of staff the company will have in the next 6 month
+![HR Report2](https://user-images.githubusercontent.com/72034856/178012877-1d2d673c-798b-413d-afe3-f6580761b362.jpg)
+
+
 
 # HOW I IMPLEMENTED THE PROJECT
 
@@ -19,6 +22,7 @@ In this project we analyze and visualized the following:
 3) Data Modelling
 Create relationship between the following tables dgender,dbranch,calender,staff,leavers,dDept,ditle
 Below is the diagram of the model created
+![HR Data model](https://user-images.githubusercontent.com/72034856/178010796-3f52494f-6a1d-4449-b4de-1b615cab03db.PNG)
 
 4)I analyzed and used the following visuals
 -line graph
